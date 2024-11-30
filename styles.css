@@ -1,0 +1,129 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  background-color: #e0e7ff; /* Cor de fundo cinza claro com toque de azul */
+}
+
+#checklist {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px; /* Aumentei o gap entre os itens */
+  width: 95vw;  /* 95% da largura da tela */
+  height: 95vh; /* 95% da altura da tela */
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.item {
+  display: flex;
+  justify-content: flex-start; /* Alinha os itens à esquerda */
+  align-items: stretch; /* Garante que os itens internos ocupem 100% da altura */
+  gap: 15px; /* Aumentei o gap entre os itens */
+  padding: 15px; /* Aumentei o padding para dar mais espaço */
+  background-color: #252525; /* Cor de fundo cinza claro */
+  color: rgb(230, 224, 224); /* Cor do texto para contraste */
+  width: 100%;
+  max-width: 1200px; /* Aumentei a largura máxima para 1200px */
+  min-width: 1000px; /* Aumentei a largura mínima para 1000px */
+  border-radius: 8px;
+  min-height: 350px; /* Aumentei a altura mínima dos itens para 350px */
+  height: auto; /* Permite que o item expanda conforme o conteúdo */
+  box-sizing: border-box; /* Garante que padding e bordas sejam incluídos no cálculo de altura/largura */
+  border: 2px solid #ccc; /* Borda visível ao redor do item */
+}
+
+.image {
+  width: 15%; /* A imagem ocupa 15% da largura */
+  height: auto; /* Ajusta a altura automaticamente */
+  border: 2px solid #ddd; /* Borda na div da imagem */
+  flex-shrink: 0; /* Impede que a imagem encolha */
+}
+
+.image img {
+  width: 100%; /* A imagem ocupa toda a largura da div */
+  height: 100%; /* A imagem ocupa toda a altura da div */
+  object-fit: cover; /* Faz com que a imagem cubra a área sem distorcer */
+  border-radius: 4px;
+}
+
+.description {
+  width: 75%; /* A descrição ocupa 75% da largura */
+  height: auto; /* Permite que a descrição se expanda conforme o conteúdo */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Alinha o conteúdo da descrição ao topo */
+  padding: 15px; /* Aumentei o padding da descrição */
+  box-sizing: border-box;
+  border: 2px solid #ddd; /* Borda na div da descrição */
+  border-radius: 4px;
+  word-wrap: break-word; /* Quebra palavras longas para não ultrapassarem a largura da div */
+  overflow-wrap: break-word; /* Quebra palavras que ultrapassam a largura da div */
+  overflow: hidden; /* Impede que o conteúdo vaze para fora da div */
+  white-space: normal; /* Permite quebra de linha automática para longos textos */
+}
+
+.name-location {
+  display: flex;
+  flex-direction: column; /* Exibe o nome e a localização um abaixo do outro */
+  gap: 8px; /* Aumentei o espaçamento entre o nome e a localização */
+}
+
+.name-location h3 {
+  margin: 0;
+  font-size: 22px; /* Aumentei o tamanho do nome */
+  font-weight: bold;
+}
+
+.name-location p {
+  margin: 0;
+  font-size: 18px; /* Tamanho da fonte da localização */
+  color: #555;
+}
+
+.description p {
+  margin: 5px 0 0 0;
+  font-size: 18px; /* Diminuí o tamanho da fonte da descrição */
+  color: #bbb7b7; /* Cor do texto da descrição, mais escura */
+  line-height: 1.6; /* Aumenta o espaçamento entre as linhas */
+  word-break: break-word; /* Quebra as palavras longas que ultrapassam a largura da div */
+}
+
+.button {
+  width: 15%; /* O botão ocupa 15% da largura */
+  height: 100%; /* O botão ocupa 100% da altura do item */
+  display: flex;
+  justify-content: center; /* Centraliza o botão */
+  align-items: center; /* Centraliza o texto do botão verticalmente */
+  border: 2px solid #ddd; /* Borda na div do botão */
+  border-radius: 4px;
+  flex-shrink: 0; /* Impede que o botão encolha */
+}
+
+button {
+  width: 100%; /* O botão ocupa toda a largura da div */
+  height: 100%; /* O botão ocupa 100% da altura da div */
+  padding: 10px;
+  background-color: rgb(173, 35, 35);
+  color: white;
+  border: 2px solid rgb(173, 35, 35);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px; /* Aumentei o tamanho da fonte do botão */
+}
+
+button.checked {
+  background-color: green;
+  border-color: green;
+}
+
+button:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,721 @@
+[
+  {
+    "Id": 1,
+    "Name": "Nowa",
+    "Location": "Default",
+    "Method": "N/A"
+  },
+  {
+    "Id": 2,
+    "Name": "Garr",
+    "Location": "Default",
+    "Method": "N/A"
+  },
+  {
+    "Id": 3,
+    "Name": "Lian",
+    "Location": "Default",
+    "Method": "N/A"
+  },
+  {
+    "Id": 4,
+    "Name": "Mio",
+    "Location": "Default",
+    "Method": "N/A"
+  },
+  {
+    "Id": 5,
+    "Name": "Mellore",
+    "Location": "Eltisweiss",
+    "Method": "Start event in town, meet at Redthroat Ridge, fight your way through, joins after boss."
+  },
+  {
+    "Id": 6,
+    "Name": "Kuroto",
+    "Location": "Altverden Village",
+    "Method": "Talk to him, kill 3 boars at Redthroat Ridge."
+  },
+  {
+    "Id": 7,
+    "Name": "Francesca",
+    "Location": "Altverden Village",
+    "Method": "Talk to her in Altverden Village"
+  },
+  {
+    "Id": 8,
+    "Name": "Yume",
+    "Location": "Werne/Redthroat Ridge",
+    "Method": "In Werne talk to the old lady to the left of the entrance standing by some stairs, go to Redthroat Ridge, view scene with yume and bear thing, she joins"
+  },
+  {
+    "Id": 9,
+    "Name": "Iugo",
+    "Location": "Eltisweiss",
+    "Method": "On the right side of town there is a semi hidden alley, enter bar area, Iugo joins after talking to him"
+  },
+  {
+    "Id": 10,
+    "Name": "Yusuke",
+    "Location": "Fort Xialuke",
+    "Method": "Joins after a brief scene in the fort."
+  },
+  {
+    "Id": 11,
+    "Name": "Gigina",
+    "Location": "Arenside",
+    "Method": "Talk to Gigina near the entrance while over level 10."
+  },
+  {
+    "Id": 12,
+    "Name": "Kogen",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 13,
+    "Name": "Yuthus",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 14,
+    "Name": "Zabi",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 15,
+    "Name": "Sabine",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 16,
+    "Name": "Ymir",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 17,
+    "Name": "Cassandra",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 18,
+    "Name": "Sumire",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 19,
+    "Name": "Caine",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 20,
+    "Name": "Iris",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 21,
+    "Name": "Gocteau",
+    "Location": "Player Caslte",
+    "Method": "N/A"
+  },
+  {
+    "Id": 22,
+    "Name": "Martha",
+    "Location": "Player Caslte",
+    "Method": "Talk to her after unlocking the fortress, she will be outside, lower level, east side."
+  },
+  {
+    "Id": 23,
+    "Name": "Kerrin",
+    "Location": "Dappled Forest",
+    "Method": "Talk to her to the right of the entrance, collect 20 pieces of lumber in the forest without leavling, return and talk to her."
+  },
+  {
+    "Id": 24,
+    "Name": "Wyler",
+    "Location": "Bounty Hill",
+    "Method": "Talk to him near the entrance, offer to help his sister, place him in your party, wander around for a few scenes, fight a monster, joins with marin after."
+  },
+  {
+    "Id": 25,
+    "Name": "Marin",
+    "Location": "Bounty Hill",
+    "Method": "Joins with Wyler"
+  },
+  {
+    "Id": 26,
+    "Name": "Ormond",
+    "Location": "Abandonded Mines",
+    "Method": "Go into the Abandoned Mines from the Castle and he is the shortcut path you can take to the right, notably near the Palenight Mail you need for another recruit. He will ask for some iron ore which you can get right near him and will join once collected."
+  },
+  {
+    "Id": 27,
+    "Name": "Hiro",
+    "Location": "Abandonded Mines",
+    "Method": "You probably saw him earlier, can be found in the 3 pillar area of the mine. Will join after a short conversation."
+  },
+  {
+    "Id": 28,
+    "Name": "Galdorf",
+    "Location": "Abandonded Mines",
+    "Method": "At the beginning of the Mines (where you first enter). Asks you to collect the Palenight Armor which can be found up and to the left of Ormond's location."
+  },
+  {
+    "Id": 29,
+    "Name": "Falward",
+    "Location": "Altverden Village",
+    "Method": "Found in the town hall sort of building, asks for 15 healing herbs."
+  },
+  {
+    "Id": 30,
+    "Name": "Frida",
+    "Location": "Werne",
+    "Method": "Just need to talk to her left of the entrance."
+  },
+  {
+    "Id": 31,
+    "Name": "Kallathor",
+    "Location": "",
+    "Method": "N/A"
+  },
+  { "Id": 32,
+  "Name": "Gieran",
+  "Location": "Greatwood East",
+  "Method": "Talk to him on the central island area, kill the area boss in the next screen, return with the rune of conservation key item."
+  },
+  {
+    "Id": 33,
+    "Name": "Squash",
+    "Location": "Tree Folk Village",
+    "Method": "Near the Trade Shop. Asks you to get a sparklestone from phantom birds which can be found in the Dappled Forest, random drop, took about 6 fights, return with the stone."
+  },
+  {
+    "Id": 34,
+    "Name": "Glen",
+    "Location": "Arenside",
+    "Method": "Find him on the left side of the village, beat him at the card minigame."
+  },
+  {
+    "Id": 35,
+    "Name": "Chron",
+    "Location": "Player Castle",
+    "Method": "Joins automatically at the front entrance, maybe achievement related?"
+  },
+  {
+    "Id": 36,
+    "Name": "Pietr",
+    "Location": "Werne",
+    "Method": "Just talk to him by the farm plot, he'll join after a short conversation."
+  },
+  {
+    "Id": 37,
+    "Name": "Mariette",
+    "Location": "Twinhorn East",
+    "Method": "Talk to her by the water, return to the great forest and fight rabbit archwitches to retrieve her charm"
+  },
+  {
+    "Id": 38,
+    "Name": "Pastole",
+    "Location": "Twinhorn East",
+    "Method": "Talk to him by the item shop, he will join after a short conversation."
+  },
+  {
+    "Id": 39,
+    "Name": "Hakugin",
+    "Location": "Daphan Village",
+    "Method": "Talk to him with Mio in your party."
+  },
+  {
+    "Id": 40,
+    "Name": "Lam",
+    "Location": "Daphan Village",
+    "Method": "Talk to Lam twice with Riufan in your party."
+  },
+  {
+    "Id": 41,
+    "Name": "Code L",
+    "Location": "Daphan Village",
+    "Method": "Talk to him in the rune shop, asks for a rune of currents, one will drop from the boss in old hishahn."
+  },
+  {
+    "Id": 42,
+    "Name": "B'baba",
+    "Location": "Daphan Village",
+    "Method": "Find B'baba in the back left house of Daphan. B'baba will join you as long as you have initiated the following events with Faye"
+  },
+  {
+    "Id": 43,
+    "Name": "Faye",
+    "Location": "Player Castle",
+    "Method": "Requires Yusuke, Francesca, and Yume Recruited to encounter. Quest starts with a scene of soldiers chasing a kid on the left side of the base, above the card and item shop. Go recruit B'baba in Daphan. Return to your base, build the divination parlor. Talk to B'baba at the parlor, it's suggested you find a brash pink person. Head to the roof where Yusuke hangs out. Watch the scene, head back to B'baba on the ground floor, you'll be told to find a foul mouthed person in white. Find Francesca in the clinic (left side door, first floor). Another scene plays out, Faye runs again. Back to B'baba, this time find Yume on the second floor. Faye finally joins."
+  },
+  {
+    "Id": 44,
+    "Name": "Riufan",
+    "Location": "Hishahn",
+    "Method": "Fight him at level 32, win and he will join. He can be a tough fight - focus on using your SP moves and expect to heal at least once, recommeded with a Quality Healing Herb."
+  },
+  {
+    "Id": 45,
+    "Name": "Kurtz",
+    "Location": "Hishahn",
+    "Method": "Asks for a recipe that you can get from the tree people village after talking to Kurtz."
+  },
+  {
+    "Id": 46,
+    "Name": "Carrie",
+    "Location": "Hishahn",
+    "Method": "View a series of events of her teleporting around the bridges and she joins."
+  },
+  {
+    "Id": 47,
+    "Name": "Huang",
+    "Location": "Hishahn",
+    "Method": "Fish up a wheel eyed bream. The fishing spot for this won't be marked on the map initially and doesn't have a dock. Walk the seaside coast near the seaside caves on the Hishahn side and you'll find the fishing spot there. Took a few restocks of the fishing spot before I caught it."
+  },
+  {
+    "Id": 48,
+    "Name": "Nell",
+    "Location": "Hishahn",
+    "Method": "Sort of hidden behind a stall on the upper left path near the exit, looks like a backpack on the ground. Just need to talk to them."
+  },
+  {
+    "Id": 49,
+    "Name": "Perielle",
+    "Location": "Hishahn",
+    "Method": "N/A"
+  },
+  {
+    "Id": 50,
+    "Name": "Janquis",
+    "Location": "Hishahn",
+    "Method": "N/A"
+  },
+  {
+    "Id": 51,
+    "Name": "Leon",
+    "Location": "Player Castle",
+    "Method": "Once you have base level 2 talk to him by the western gate."
+  },
+  {
+    "Id": 52,
+    "Name": "Maureus",
+    "Location": "Mountain Path - West",
+    "Method": "You can find him all the way to the west across the bridge. Bring a character with 250 base MP (Francesca/Mellore/Gieren level ~34)."
+  },
+  {
+    "Id": 53,
+    "Name": "Celia",
+    "Location": "Player Castle",
+    "Method": "At the inn you can do cooking contests by speaking to the NPC in a chef outfit to the right of Kurtz. After about 10 or so of these (they spawn every 10 - 15 minutes) you face an opponent you cant beat, Trey. You will have to get the scroll of heaven from the sea caves. The scroll is somewhat hidden off screen, when you get to the final turn before the blue gate, head south towards the edge of the screen/water, and you can find it there. After you have the scroll do another 4 battles, and a 5th being a beatable Trey once again. After this you won't see another challenger waiting but talk to Kurtz to initiate the final battle, and finally Celia joins.\nFind the \"Cook Off Calculator\" here --> Eiyuden Chronicle Cook-Off Data"
+  },
+  {
+    "Id": 54,
+    "Name": "Shixeen",
+    "Location": "Player Castle",
+    "Method": "Need the Card Shop and Extra Pack 1 Castle upgrades. Puchase all the cards to get 120+ then beat her in a card battle"
+  },
+  {
+    "Id": 55,
+    "Name": "Melridge",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 56,
+    "Name": "Barnard",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 57,
+    "Name": "Seign",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 58,
+    "Name": "Pohl",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 59,
+    "Name": "Valentin",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 60,
+    "Name": "Hildi",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 61,
+    "Name": "Cabana",
+    "Location": "Impershi'arc",
+    "Method": "Talk to him by the inn."
+  },
+  {
+    "Id": 62,
+    "Name": "Stadler",
+    "Location": "Impershi'arc",
+    "Method": "Man in Yellow by right set of stairs from area entrance. Beat him at a mock war-battle and he joins.\nYou'll have 4 legion units: Seign, Nowa, Ymir, and Barnard. Try using them to split up Stadler's lesser forces and take them down before going all in on Stadler himself buffed with legion commands."
+  },
+  {
+    "Id": 63,
+    "Name": "Quinn",
+    "Location": "Impershi'arc",
+    "Method": "Talk to her a couple of times, you will go on a quest to the den of dunes, chase the boss around a few times and once it's dead she'll join."
+  },
+  {
+    "Id": 64,
+    "Name": "Prunella",
+    "Location": "Dabavin",
+    "Method": "Pay them 100k at the inn, you get 50k back and they join."
+  },
+  {
+    "Id": 65,
+    "Name": "Rody",
+    "Location": "Dabavin",
+    "Method": "Bring them a pearl pocket watch and they join. It's possible to have gotten one earlier, that you may have sold.\nIf you did/sold it, wander around the Great Sandy Sea (once unlocked from Impershi'arc) until you find a fight with a chest gimmick / \"Unknown Watch\" item drop that you need to appraise for a chance to get another."
+  },
+  {
+    "Id": 66,
+    "Name": "Fume",
+    "Location": "Dappled Forest",
+    "Method": "Need to have the mission guild and then just talk to him in the forest."
+  },
+  {
+    "Id": 67,
+    "Name": "Enoe",
+    "Location": "Daphan Village",
+    "Method": "Need to have the mission guild and then just talk to him."
+  },
+  {
+    "Id": 68,
+    "Name": "Larla",
+    "Location": "Eltisweiss",
+    "Method": "Required to have Enoe and Fume Recruited and the Mission Guild built. Have a guild missions come back with \"Epic Success\" then talk to her to recruit."
+  },
+  {
+    "Id": 69,
+    "Name": "Douglass",
+    "Location": "Eltisweiss",
+    "Method": "In the smithy shop, he'll ask for 10 iron ore to join. Careful not to deposit the ore at your base by returning - you need to have the 10 Iron Ore in your bag."
+  },
+  {
+    "Id": 70,
+    "Name": "Isha",
+    "Location": "Eltisweiss",
+    "Method": "You can find her on the right bottom side of town, she tasks you with some mini quests. \n\nFirst find a black cat, it's on the bottom left side of town. \n\nNext is collect a cockatrice egg from the mountain pass, this is got from a gimmick chest fight. This was the first fight I encountered when going there, not sure if it's scripted.\n\nNext is a delivery to the Arenside item shop. She joins after this quest."
+  },
+  {
+    "Id": 71,
+    "Name": "Dr. Croque",
+    "Location": "Eltisweiss",
+    "Method": "Bottom Leftmost corner of map to meet Reid (you'll have done this getting the cat for Isha). Go to Dr. Croque's house on the bottom right of the map. You will need to beat Reid in the tutorial to be able to continue - if you lose, fight him again until you win. Then proceed as follows: \n1. Go to Alteverden and go north and battke with the kid named Taq.\n2. Go to Kyishiri and battle Fender at town square\n3. Go to Werne and battle Celera at top of the map\nOnce you've won each of those battles; go back to Dr. Croque and talk to him. It's suggested to wait until you have the Lucky Badge / Super Lucky Badge to get higher item drop rates. More in-depth breakdown at Beigoma Guide | GameFAQs"
+  },
+  {
+    "Id": 72,
+    "Name": "Paquia",
+    "Location": "Arenside",
+    "Method": "Found just over the bridge from the entrance. Bring her 5 regular eggs dropped from fighting various eggfoot enemies. Best way to do this is at Redthroat Ridge, you'll commonly fight the \"Shell Egg\" enemy. Using accessories that increase item drop will help boost the rate you get the eggs to drop."
+  },
+  {
+    "Id": 73,
+    "Name": "Mandie",
+    "Location": "Arenside",
+    "Method": "Joins with Paquia"
+  },
+  {
+    "Id": 74,
+    "Name": "Milana",
+    "Location": "Player Castle",
+    "Method": "Requires Code L Recruited and Rune Shop Built. Walk by the Rune Shop and a short scene will play. She will join when it's done."
+  },
+  {
+    "Id": 75,
+    "Name": "Aire",
+    "Location": "Hishahn",
+    "Method": "Talk to her on the bottom left area of town, a scene where you run around happens, then she joins."
+  },
+  {
+    "Id": 76,
+    "Name": "Jorhan",
+    "Location": "Hishahn",
+    "Method": "Talk to him near the Trade Shop and he'll ask for something inspiring, talk to Perielle at the castle (3rd floor, top right door) and Janquis will tell you to find a yellow floral censer from the eastern desert outside Dabavan. This is an appraisal item, that is a rare drop from the Scarab enemy. The appraisal can become 1 of 2 items; a wooden lucky cat or Yellow Rose Censer. Return with the Yellow Rose Censer and he will join."
+  },
+  {
+    "Id": 77,
+    "Name": "Reyna",
+    "Location": "Dabavin",
+    "Method": "Talk to her near the docks. The trick here is to do a lot of damage before 3 turns are over.\nWorking Strategy (Turn Order): Yusuke (Charge, Rune Ability, Attack), Yuferius (Charge, Rune, Attack), Nowa (Chain Smash x2, Attack), Lam (Qi, Attack x2), Milana (Sacraficial Bond x3), Hakugin (Attack, Attack, Sidewinder). Perrielle Support. Depending on SP geration, if you can use Qi more than once would be better. All party members where between lv 37 - 46 and was successful first attempt."
+  },
+  {
+    "Id": 78,
+    "Name": "Skyd",
+    "Location": "Impershi'arc",
+    "Method": "N/A"
+  },
+  {
+    "Id": 79,
+    "Name": "Yuferius VII",
+    "Location": "Impershi'arc",
+    "Method": "N/A"
+  },
+  {
+    "Id": 80,
+    "Name": "Scarlet",
+    "Location": "Impershi'arc",
+    "Method": "Beat her in a race and she joins."
+  },
+  {
+    "Id": 81,
+    "Name": "Yaelu",
+    "Location": "",
+    "Method": "N/A"
+  },
+  {
+    "Id": 82,
+    "Name": "Ivy",
+    "Location": "",
+    "Method": "N/A"
+  },
+  {
+    "Id": 83,
+    "Name": "Mihlu",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 84,
+    "Name": "Marisa",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 85,
+    "Name": "Garoo",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 86,
+    "Name": "Alwe",
+    "Location": "Yarnaan",
+    "Method": "N/A"
+  },
+  {
+    "Id": 87,
+    "Name": "Nil",
+    "Location": "Yarnaan",
+    "Method": "N/A"
+  },
+  {
+    "Id": 88,
+    "Name": "Aleior",
+    "Location": "Abandoned Mines",
+    "Method": "Talk to Marisa on the first floor of your base. Talk to NPC by the entrance to Altverden village. Head to the abandoned mines. You can find Aleior pretty close to the main entrance, they're in the central area before you get to any of the next screens."
+  },
+  {
+    "Id": 89,
+    "Name": "Durlan",
+    "Location": "Abandoned Mines",
+    "Method": "Requires Mission Party 1 and Mission Task 1 Castle Upgrades purchased. From Aleior, cross the bridge, and continue straight past the save point. On the next screen, follow the path to the left to the next screen that takes you toward the Well Entrance (or you can just come in from the Well). Follow the path to the left of the save point until it dead-ends and goes south. Continue south to another dead-end where he will be standing."
+  },
+  {
+    "Id": 90,
+    "Name": "Syd",
+    "Location": "Hishahn",
+    "Method": "Requires Castle Level 3. He's on the boardwalk next to the Smithy. Talk to him and he'll ask for iron, mystic lumber, and a dire beastbone to join."
+  },
+  {
+    "Id": 91,
+    "Name": "Dalton",
+    "Location": "Twinhorne East",
+    "Method": "In front of the Inn, talk to him and he joins."
+  },
+  {
+    "Id": 92,
+    "Name": "CJ",
+    "Location": "Player Castle (lv 3)",
+    "Method": "Requires Isha & Garoo Recruited. Go to Main (south) entrance for a scene with CJ. Bring Isha and Garoo to the Runebarrow just east of Arenside (different than the original one from the beginning of the game). Fight the boss & \"flee\" when prompted. Work through the barrows - CJ joins on completion."
+  },
+  {
+    "Id": 93,
+    "Name": "Rudy",
+    "Location": "Skriss",
+    "Method": "N/A"
+  },
+  {
+    "Id": 94,
+    "Name": "Hogan",
+    "Location": "Twinhorne West",
+    "Method": "Talk to him on the dock, he'll ask you to make 50k via trading.\nFor best results, reference here --> Eiyuden Chronicles Trading Sheet\nIt will tell you the best places to buy/sell certain trade shop items.\n\nAnother side note, while in Ardindale keep checking the item shop for a rare item needed to recruit Clarke a little later."
+  },
+  {
+    "Id": 95,
+    "Name": "Clarke",
+    "Location": "Ardinale",
+    "Method": "Talk to him in the NE section heading toward the cathedral and he will ask for the Star Crossed Lovers script. This is a rare item spawn from the Item Shop in the lower city. Once you have it you just talk to him again he join. \n\nOne strategy to getting this is check the item shop for it, if not there wait 30 minutes. After 30 minutes, save at the Inn, then check the item shop again, if not there just reload from menu. Keep checking/reloading the save until it shows up."
+  },
+  {
+    "Id": 96,
+    "Name": "Lilwn",
+    "Location": "Yarnaan",
+    "Method": "N/A"
+  },
+  {
+    "Id": 97,
+    "Name": "Euma",
+    "Location": "Athrabalt",
+    "Method": "N/A"
+  },
+  {
+    "Id": 98,
+    "Name": "Kassius",
+    "Location": "Athrabalt",
+    "Method": "N/A"
+  },
+  {
+    "Id": 99,
+    "Name": "Goldsmid",
+    "Location": "Twinhorne West",
+    "Method": "Find on the NE Overlook, near the Inn. Talk to him and he will join you if show him someone \"who has strength greater than his\". It's suggested you need to have 220+ Strength character, which should be pretty easy to already have in your party."
+  },
+  {
+    "Id": 100,
+    "Name": "Rohan",
+    "Location": "Twinhorne West",
+    "Method": "Joins if your population is over a certain number. It's suggest you need 5,000 or more - shouldn't be an issue if you already have Castle Level 3."
+  },
+  {
+    "Id": 101,
+    "Name": "Chandra",
+    "Location": "Player Castle/Eldroad",
+    "Method": "Walk in to the training grounds to hear a scene at the base, Code L will suggest you bring him, bring Code L. Continue on to the Eldroad, you can find Chandra at the end of the little L branch towards the beginning of the road. You will have to fight the dragon, has some pretty hard hitting attacks so stay healthy, once you win Chandra joins."
+  },
+  {
+    "Id": 102,
+    "Name": "Selbineth",
+    "Location": "Player Castle",
+    "Method": "Once you build the mystery room you will actually see her standing there in the preview of the room. Head to the basement, interact with the red wall, take a crack at the hero challenge, and then she joins."
+  },
+  {
+    "Id": 103,
+    "Name": "Foxiel",
+    "Location": "Athrabalt",
+    "Method": "Talk to Foxiel in the fountain-square on the right side of town. Then you ned to go talk to Kurtz at your base, return to Athrabalt and talk to Foxiel again and she joins."
+  },
+  {
+    "Id": 104,
+    "Name": "Momo",
+    "Location": "Hishahn",
+    "Method": "On the lower streets trigger a scene by the bridge with Momo. Add her to your party, her stats are kind of nuts, you head off to the sea caverns. You're going to head to the blue gate you couldn't do anything about before. Go a short way further, fight a boss, Momo joins."
+  },
+  {
+    "Id": 105,
+    "Name": "Galladur",
+    "Location": "Proving Grounds",
+    "Method": "From the main Podium that spins the corridor, head toward the left room. Before going through the screen change, you'll see a man sitting in the grass just south of the doorway. Talk to him and agree to his training. He'll take you into a battle with 3 rune-golems and mentions \"finishing then with a single strike\" - essentially, you need to kill all 3 in one round."
+  },
+  {
+    "Id": 106,
+    "Name": "Aoi",
+    "Location": "Twinhorne East",
+    "Method": "Talk to her with Iugo in your party and beat her in a one on one fight with him. My Iugo was level 43, but I've seen mention of being able to do it at level 36. May just need to donate few higher level fights with him in party and gear him up slightly if you didn't used him previously. She joins after the fight."
+  },
+  {
+    "Id": 107,
+    "Name": "Wayve",
+    "Location": "Snowpeake Pass",
+    "Method": "N/A"
+  },
+  {
+    "Id": 108,
+    "Name": "Yulin",
+    "Location": "Twinhorne West",
+    "Method": "N/A"
+  },
+  {
+    "Id": 109,
+    "Name": "El Alicanto",
+    "Location": "Snowpeake Pass",
+    "Method": "Go all the way back up the center path, all the way to the top center, a scene will play out, beat him in a duel and he joins."
+  },
+  {
+    "Id": 110,
+    "Name": "Allaby",
+    "Location": "Player Castle",
+    "Method": "Talk to her at the inn and she joins."
+  },
+  {
+    "Id": 111,
+    "Name": "Dijkstra",
+    "Location": "Twinhorne East",
+    "Method": "Talk to him with Quinn in your party, venture off to Chelonian Goliath. Here you fight a lot of big dragon type enemies so come prepared it's a long area. Beeat the boss at the end and he will join. \n\nWorth noting each dragon drops a 3 star beigoma, try to get them all."
+  },
+  {
+    "Id": 112,
+    "Name": "Reid",
+    "Location": "Everywhere",
+    "Method": "Requires you to go through the Beigoma side-quest series, doing a series of battles againt increasingly harder key beigoma players / battling with various players in different cities. More in-depth breakdown at Beigoma Guide | GameFAQs"
+  },
+  {
+    "Id": 113,
+    "Name": "Markus",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 114,
+    "Name": "Lakian",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 115,
+    "Name": "Goldwyn",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 116,
+    "Name": "Elektra",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 117,
+    "Name": "Maxim",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 118,
+    "Name": "Vorridice",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 119,
+    "Name": "Viesskin",
+    "Location": "Player Castle",
+    "Method": "N/A"
+  },
+  {
+    "Id": 120,
+    "Name": "Leene",
+    "Location": "Player Castle",
+    "Method": "She will join automatically if you've recruited all 119 characters before your speech to your army and will have a scene during the speech."
+  }
+]
